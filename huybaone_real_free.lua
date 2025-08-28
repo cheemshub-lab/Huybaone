@@ -1,4 +1,4 @@
--- discord.gg/huybaone✅️roblox
+-- https://discord.gg/m4EVnpGm
 
 
 shared.LoaderTitle = "follow script roboloc";
